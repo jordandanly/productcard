@@ -1,0 +1,23 @@
+body {
+    background: orange;
+    height: 100vh;  
+    display: grid;
+    align-content: center;  
+    justify-content: center;  
+  }
+  div {
+    background  :purple; 
+    width: 320px;
+    padding:10px;
+    border-radius: 14px;
+  }  
+  img{
+    border: 8px solid #f9cd7c;  
+  }
+  
+  h1{
+   text-align: center; 
+  }
+  p{
+    font-size: 1.5em; 
+  }
